@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhil</h1>
-<h3 align="center">Full Stack Dev | JS, TS, Python, Go, Rust enthusiast | Building scalable apps & diving into Generative AI & Blockchain | Web3 & AI Explorer | Always learning</h3>
+<h3 align="center">Full Stack Dev | JS, TS, Python, Go | Building scalable apps & diving into Generative AI and Quantitative finance</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilesh-chandewar&label=Profile%20views&color=0e75b6&style=flat" alt="akhilesh-chandewar" /> </p>
 
